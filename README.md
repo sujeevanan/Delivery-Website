@@ -1,2 +1,2 @@
 # Canteen-Delivery-Website-
-fully funstional Deliver Website 
+fully functional Deliver Website 
